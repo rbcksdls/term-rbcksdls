@@ -22,5 +22,8 @@ execution : use command
 ## License
 none
 
-## Link
+## Page Link
 [link](https://github.com/rbcksdls/term-rbcksdls)
+
+## Playing Video Link
+[link](https://www.youtube.com/watch?v=xAO4InnswDU)
